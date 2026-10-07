@@ -1,0 +1,49 @@
+services:
+
+  mongo:
+    image: mongo:7
+    container_name: mall-mongo
+    restart: unless-stopped
+    volumes:
+      - mongo_data:/data/db
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile_inline: |
+        FROM node:22-alpine
+        WORKDIR /app
+        COPY package*.json ./
+        RUN npm install
+        COPY . .
+        EXPOSE 8080
+        CMD ["node", "src/index.js"]
+    container_name: mall-backend
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    environment:
+      MONGO_URI: mongodb://mongo:27017/mall_operations
+    depends_on:
+      - mongo
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile_inline: |
+        FROM node:22-alpine
+        WORKDIR /app
+        COPY package*.json ./
+        RUN npm install
+        COPY . .
+        EXPOSE 3000
+        CMD ["npm", "run", "dev", "--", "--host", "0.0.0.0"]
+    container_name: mall-frontend
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+volumes:
+  mongo_data:

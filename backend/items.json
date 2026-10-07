@@ -1,0 +1,452 @@
+{
+  "I001": {
+    "item_id": "I001",
+    "name": "Basmati Rice 5kg",
+    "category": "Grocery",
+    "unit_price_paise": 64900,
+    "initial_shelf_qty": 60,
+    "refill_cost_per_unit_paise": 2500,
+    "online_pull_cost_per_unit_paise": 4200
+  },
+  "I002": {
+    "item_id": "I002",
+    "name": "Toothpaste 150g",
+    "category": "Personal Care",
+    "unit_price_paise": 9500,
+    "initial_shelf_qty": 120,
+    "refill_cost_per_unit_paise": 400,
+    "online_pull_cost_per_unit_paise": 700
+  },
+  "I003": {
+    "item_id": "I003",
+    "name": "USB-C Cable 1m",
+    "category": "Electronics",
+    "unit_price_paise": 24900,
+    "initial_shelf_qty": 40,
+    "refill_cost_per_unit_paise": 900,
+    "online_pull_cost_per_unit_paise": 1500
+  },
+  "I004": {
+    "item_id": "I004",
+    "name": "Olive Oil 1L",
+    "category": "Grocery",
+    "unit_price_paise": 55000,
+    "initial_shelf_qty": 45,
+    "refill_cost_per_unit_paise": 2200,
+    "online_pull_cost_per_unit_paise": 3800
+  },
+  "I005": {
+    "item_id": "I005",
+    "name": "Hand Wash 250ml",
+    "category": "Personal Care",
+    "unit_price_paise": 12900,
+    "initial_shelf_qty": 100,
+    "refill_cost_per_unit_paise": 500,
+    "online_pull_cost_per_unit_paise": 900
+  },
+  "I006": {
+    "item_id": "I006",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "unit_price_paise": 79900,
+    "initial_shelf_qty": 30,
+    "refill_cost_per_unit_paise": 3200,
+    "online_pull_cost_per_unit_paise": 5400
+  },
+  "I007": {
+    "item_id": "I007",
+    "name": "Whole Wheat Flour 10kg",
+    "category": "Grocery",
+    "unit_price_paise": 42000,
+    "initial_shelf_qty": 80,
+    "refill_cost_per_unit_paise": 1800,
+    "online_pull_cost_per_unit_paise": 3000
+  },
+  "I008": {
+    "item_id": "I008",
+    "name": "Shampoo 400ml",
+    "category": "Personal Care",
+    "unit_price_paise": 34900,
+    "initial_shelf_qty": 90,
+    "refill_cost_per_unit_paise": 1400,
+    "online_pull_cost_per_unit_paise": 2400
+  },
+  "I009": {
+    "item_id": "I009",
+    "name": "HDMI Cable 2m",
+    "category": "Electronics",
+    "unit_price_paise": 19900,
+    "initial_shelf_qty": 50,
+    "refill_cost_per_unit_paise": 800,
+    "online_pull_cost_per_unit_paise": 1300
+  },
+  "I010": {
+    "item_id": "I010",
+    "name": "Sunflower Oil 5L",
+    "category": "Grocery",
+    "unit_price_paise": 72000,
+    "initial_shelf_qty": 55,
+    "refill_cost_per_unit_paise": 2900,
+    "online_pull_cost_per_unit_paise": 4900
+  },
+  "I011": {
+    "item_id": "I011",
+    "name": "Body Lotion 200ml",
+    "category": "Personal Care",
+    "unit_price_paise": 21900,
+    "initial_shelf_qty": 85,
+    "refill_cost_per_unit_paise": 900,
+    "online_pull_cost_per_unit_paise": 1500
+  },
+  "I012": {
+    "item_id": "I012",
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "unit_price_paise": 149900,
+    "initial_shelf_qty": 20,
+    "refill_cost_per_unit_paise": 6000,
+    "online_pull_cost_per_unit_paise": 10000
+  },
+  "I013": {
+    "item_id": "I013",
+    "name": "Masoor Dal 2kg",
+    "category": "Grocery",
+    "unit_price_paise": 18500,
+    "initial_shelf_qty": 70,
+    "refill_cost_per_unit_paise": 750,
+    "online_pull_cost_per_unit_paise": 1200
+  },
+  "I014": {
+    "item_id": "I014",
+    "name": "Face Wash 100ml",
+    "category": "Personal Care",
+    "unit_price_paise": 15900,
+    "initial_shelf_qty": 110,
+    "refill_cost_per_unit_paise": 650,
+    "online_pull_cost_per_unit_paise": 1100
+  },
+  "I015": {
+    "item_id": "I015",
+    "name": "Power Bank 10000mAh",
+    "category": "Electronics",
+    "unit_price_paise": 99900,
+    "initial_shelf_qty": 25,
+    "refill_cost_per_unit_paise": 4000,
+    "online_pull_cost_per_unit_paise": 6800
+  },
+  "I016": {
+    "item_id": "I016",
+    "name": "Sugar 5kg",
+    "category": "Grocery",
+    "unit_price_paise": 27500,
+    "initial_shelf_qty": 65,
+    "refill_cost_per_unit_paise": 1100,
+    "online_pull_cost_per_unit_paise": 1900
+  },
+  "I017": {
+    "item_id": "I017",
+    "name": "Deodorant 150ml",
+    "category": "Personal Care",
+    "unit_price_paise": 19900,
+    "initial_shelf_qty": 95,
+    "refill_cost_per_unit_paise": 800,
+    "online_pull_cost_per_unit_paise": 1400
+  },
+  "I018": {
+    "item_id": "I018",
+    "name": "Laptop Stand",
+    "category": "Electronics",
+    "unit_price_paise": 129900,
+    "initial_shelf_qty": 22,
+    "refill_cost_per_unit_paise": 5200,
+    "online_pull_cost_per_unit_paise": 8800
+  },
+  "I019": {
+    "item_id": "I019",
+    "name": "Peanut Butter 500g",
+    "category": "Grocery",
+    "unit_price_paise": 32000,
+    "initial_shelf_qty": 50,
+    "refill_cost_per_unit_paise": 1300,
+    "online_pull_cost_per_unit_paise": 2200
+  },
+  "I020": {
+    "item_id": "I020",
+    "name": "Toothbrush Pack",
+    "category": "Personal Care",
+    "unit_price_paise": 8900,
+    "initial_shelf_qty": 130,
+    "refill_cost_per_unit_paise": 350,
+    "online_pull_cost_per_unit_paise": 600
+  },
+  "I021": {
+    "item_id": "I021",
+    "name": "Screen Protector",
+    "category": "Electronics",
+    "unit_price_paise": 14900,
+    "initial_shelf_qty": 60,
+    "refill_cost_per_unit_paise": 600,
+    "online_pull_cost_per_unit_paise": 1000
+  },
+  "I022": {
+    "item_id": "I022",
+    "name": "Green Tea 100 bags",
+    "category": "Grocery",
+    "unit_price_paise": 29900,
+    "initial_shelf_qty": 55,
+    "refill_cost_per_unit_paise": 1200,
+    "online_pull_cost_per_unit_paise": 2000
+  },
+  "I023": {
+    "item_id": "I023",
+    "name": "Sunscreen SPF50",
+    "category": "Personal Care",
+    "unit_price_paise": 45000,
+    "initial_shelf_qty": 75,
+    "refill_cost_per_unit_paise": 1800,
+    "online_pull_cost_per_unit_paise": 3100
+  },
+  "I024": {
+    "item_id": "I024",
+    "name": "Earphones Wired",
+    "category": "Electronics",
+    "unit_price_paise": 39900,
+    "initial_shelf_qty": 35,
+    "refill_cost_per_unit_paise": 1600,
+    "online_pull_cost_per_unit_paise": 2700
+  },
+  "I025": {
+    "item_id": "I025",
+    "name": "Instant Noodles 12pk",
+    "category": "Grocery",
+    "unit_price_paise": 24000,
+    "initial_shelf_qty": 90,
+    "refill_cost_per_unit_paise": 1000,
+    "online_pull_cost_per_unit_paise": 1700
+  },
+  "I026": {
+    "item_id": "I026",
+    "name": "Hair Oil 200ml",
+    "category": "Personal Care",
+    "unit_price_paise": 17500,
+    "initial_shelf_qty": 100,
+    "refill_cost_per_unit_paise": 700,
+    "online_pull_cost_per_unit_paise": 1200
+  },
+  "I027": {
+    "item_id": "I027",
+    "name": "Phone Case Universal",
+    "category": "Electronics",
+    "unit_price_paise": 9900,
+    "initial_shelf_qty": 80,
+    "refill_cost_per_unit_paise": 400,
+    "online_pull_cost_per_unit_paise": 700
+  },
+  "I028": {
+    "item_id": "I028",
+    "name": "Ghee 1kg",
+    "category": "Grocery",
+    "unit_price_paise": 58000,
+    "initial_shelf_qty": 40,
+    "refill_cost_per_unit_paise": 2300,
+    "online_pull_cost_per_unit_paise": 3900
+  },
+  "I029": {
+    "item_id": "I029",
+    "name": "Razor Cartridge 4pk",
+    "category": "Personal Care",
+    "unit_price_paise": 54900,
+    "initial_shelf_qty": 60,
+    "refill_cost_per_unit_paise": 2200,
+    "online_pull_cost_per_unit_paise": 3700
+  },
+  "I030": {
+    "item_id": "I030",
+    "name": "Keyboard Mechanical",
+    "category": "Electronics",
+    "unit_price_paise": 249900,
+    "initial_shelf_qty": 20,
+    "refill_cost_per_unit_paise": 10000,
+    "online_pull_cost_per_unit_paise": 17000
+  },
+  "I031": {
+    "item_id": "I031",
+    "name": "Coffee Powder 500g",
+    "category": "Grocery",
+    "unit_price_paise": 47000,
+    "initial_shelf_qty": 50,
+    "refill_cost_per_unit_paise": 1900,
+    "online_pull_cost_per_unit_paise": 3200
+  },
+  "I032": {
+    "item_id": "I032",
+    "name": "Wet Wipes 80ct",
+    "category": "Personal Care",
+    "unit_price_paise": 13500,
+    "initial_shelf_qty": 100,
+    "refill_cost_per_unit_paise": 550,
+    "online_pull_cost_per_unit_paise": 950
+  },
+  "I033": {
+    "item_id": "I033",
+    "name": "USB Hub 4-Port",
+    "category": "Electronics",
+    "unit_price_paise": 34900,
+    "initial_shelf_qty": 30,
+    "refill_cost_per_unit_paise": 1400,
+    "online_pull_cost_per_unit_paise": 2400
+  },
+  "I034": {
+    "item_id": "I034",
+    "name": "Honey 500g",
+    "category": "Grocery",
+    "unit_price_paise": 35000,
+    "initial_shelf_qty": 45,
+    "refill_cost_per_unit_paise": 1400,
+    "online_pull_cost_per_unit_paise": 2400
+  },
+  "I035": {
+    "item_id": "I035",
+    "name": "Cotton T-Shirt",
+    "category": "Fashion",
+    "unit_price_paise": 49900,
+    "initial_shelf_qty": 40,
+    "refill_cost_per_unit_paise": 2000,
+    "online_pull_cost_per_unit_paise": 3400
+  },
+  "I036": {
+    "item_id": "I036",
+    "name": "Running Shoes",
+    "category": "Fashion",
+    "unit_price_paise": 299900,
+    "initial_shelf_qty": 20,
+    "refill_cost_per_unit_paise": 12000,
+    "online_pull_cost_per_unit_paise": 20000
+  },
+  "I037": {
+    "item_id": "I037",
+    "name": "Denim Jeans",
+    "category": "Fashion",
+    "unit_price_paise": 179900,
+    "initial_shelf_qty": 25,
+    "refill_cost_per_unit_paise": 7200,
+    "online_pull_cost_per_unit_paise": 12200
+  },
+  "I038": {
+    "item_id": "I038",
+    "name": "Yoga Mat 6mm",
+    "category": "Sports",
+    "unit_price_paise": 89900,
+    "initial_shelf_qty": 30,
+    "refill_cost_per_unit_paise": 3600,
+    "online_pull_cost_per_unit_paise": 6100
+  },
+  "I039": {
+    "item_id": "I039",
+    "name": "Water Bottle 1L Steel",
+    "category": "Sports",
+    "unit_price_paise": 59900,
+    "initial_shelf_qty": 45,
+    "refill_cost_per_unit_paise": 2400,
+    "online_pull_cost_per_unit_paise": 4100
+  },
+  "I040": {
+    "item_id": "I040",
+    "name": "Skipping Rope",
+    "category": "Sports",
+    "unit_price_paise": 29900,
+    "initial_shelf_qty": 55,
+    "refill_cost_per_unit_paise": 1200,
+    "online_pull_cost_per_unit_paise": 2000
+  },
+  "I041": {
+    "item_id": "I041",
+    "name": "LED Desk Lamp",
+    "category": "Home",
+    "unit_price_paise": 119900,
+    "initial_shelf_qty": 25,
+    "refill_cost_per_unit_paise": 4800,
+    "online_pull_cost_per_unit_paise": 8100
+  },
+  "I042": {
+    "item_id": "I042",
+    "name": "Bath Towel Set",
+    "category": "Home",
+    "unit_price_paise": 69900,
+    "initial_shelf_qty": 35,
+    "refill_cost_per_unit_paise": 2800,
+    "online_pull_cost_per_unit_paise": 4700
+  },
+  "I043": {
+    "item_id": "I043",
+    "name": "Pillow Memory Foam",
+    "category": "Home",
+    "unit_price_paise": 149900,
+    "initial_shelf_qty": 20,
+    "refill_cost_per_unit_paise": 6000,
+    "online_pull_cost_per_unit_paise": 10200
+  },
+  "I044": {
+    "item_id": "I044",
+    "name": "Cutting Board Bamboo",
+    "category": "Home",
+    "unit_price_paise": 39900,
+    "initial_shelf_qty": 50,
+    "refill_cost_per_unit_paise": 1600,
+    "online_pull_cost_per_unit_paise": 2700
+  },
+  "I045": {
+    "item_id": "I045",
+    "name": "Spice Box Steel",
+    "category": "Home",
+    "unit_price_paise": 44900,
+    "initial_shelf_qty": 40,
+    "refill_cost_per_unit_paise": 1800,
+    "online_pull_cost_per_unit_paise": 3100
+  },
+  "I046": {
+    "item_id": "I046",
+    "name": "Notebook A4 Pack",
+    "category": "Stationery",
+    "unit_price_paise": 19900,
+    "initial_shelf_qty": 100,
+    "refill_cost_per_unit_paise": 800,
+    "online_pull_cost_per_unit_paise": 1400
+  },
+  "I047": {
+    "item_id": "I047",
+    "name": "Ballpoint Pen 10pk",
+    "category": "Stationery",
+    "unit_price_paise": 9900,
+    "initial_shelf_qty": 120,
+    "refill_cost_per_unit_paise": 400,
+    "online_pull_cost_per_unit_paise": 700
+  },
+  "I048": {
+    "item_id": "I048",
+    "name": "Highlighter Set 6",
+    "category": "Stationery",
+    "unit_price_paise": 14900,
+    "initial_shelf_qty": 90,
+    "refill_cost_per_unit_paise": 600,
+    "online_pull_cost_per_unit_paise": 1000
+  },
+  "I049": {
+    "item_id": "I049",
+    "name": "Dark Chocolate 100g",
+    "category": "Grocery",
+    "unit_price_paise": 22000,
+    "initial_shelf_qty": 70,
+    "refill_cost_per_unit_paise": 900,
+    "online_pull_cost_per_unit_paise": 1500
+  },
+  "I050": {
+    "item_id": "I050",
+    "name": "Hand Sanitizer 500ml",
+    "category": "Personal Care",
+    "unit_price_paise": 27900,
+    "initial_shelf_qty": 80,
+    "refill_cost_per_unit_paise": 1100,
+    "online_pull_cost_per_unit_paise": 1900
+  }
+}
